@@ -1,2 +1,2 @@
 # DZstats
-DZstats (Saylor and Sundell, 2016) 
+Saylor and Sundell (2016) Geosphere
